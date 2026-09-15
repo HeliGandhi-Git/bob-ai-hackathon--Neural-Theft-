@@ -15,7 +15,7 @@
 | **Team Lead** | Jash Mandani — [20pgce011@charusat.edu.in](mailto:26pgce011@charusat.edu.in) |
 | **Members**   | Heli Gandhi, Tanisha Kapila, Vansh Desai                                     |
 
-### Team Members
+### Team Members 
 
 | Name               | Role                              | Email                                                         |
 | ------------------ | --------------------------------- | ------------------------------------------------------------- |
