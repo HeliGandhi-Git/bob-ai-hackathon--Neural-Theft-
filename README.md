@@ -19,7 +19,7 @@
 
 | Name               | Role                              | Email                                                         |
 | ------------------ | --------------------------------- | ------------------------------------------------------------- |
-| **Jash Mandani**   | Team Lead / Project Coordination  | [20pgce011@charusat.edu.in](mailto:20pgce011@charusat.edu.in) |
+| **Jash Mandani**   | Team Lead / Project Coordination  | [20pgce011@charusat.edu.in](mailto:26pgce011@charusat.edu.in) |
 | **Heli Gandhi**    | AI & Application Development      | [26pgce005@charusat.edu.in](mailto:26pgce005@charusat.edu.in) |
 | **Tanisha Kapila** | Research, Testing & Documentation | [26pgce009@charusat.edu.in](mailto:26pgce009@charusat.edu.in) |
 | **Vansh Desai**    | UI/UX, Presentation & Testing     | [26pgce004@charusat.edu.in](mailto:26pgce004@charusat.edu.in) |
