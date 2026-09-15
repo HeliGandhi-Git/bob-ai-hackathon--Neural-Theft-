@@ -1,0 +1,72 @@
+[
+  {
+    "alert_id": "ALT-001",
+    "source": "SIEM",
+    "timestamp": "2026-09-15T08:42:11",
+    "source_ip": "185.220.101.45",
+    "destination_ip": "10.10.20.15",
+    "host": "FINANCE-PC-07",
+    "user": "analyst01",
+    "event_type": "Multiple Failed Logins",
+    "severity": "high",
+    "description": "Multiple failed authentication attempts detected from an external IP.",
+    "indicator": "185.220.101.45",
+    "ti_confidence": 0.95
+  },
+  {
+    "alert_id": "ALT-002",
+    "source": "Endpoint Sensor",
+    "timestamp": "2026-09-15T08:44:19",
+    "source_ip": "185.220.101.45",
+    "destination_ip": "10.10.20.15",
+    "host": "FINANCE-PC-07",
+    "user": "analyst01",
+    "event_type": "PowerShell Execution",
+    "severity": "high",
+    "description": "Suspicious PowerShell process executed on a finance workstation.",
+    "indicator": "185.220.101.45",
+    "ti_confidence": 0.90
+  },
+  {
+    "alert_id": "ALT-003",
+    "source": "Threat Intelligence",
+    "timestamp": "2026-09-15T08:45:02",
+    "source_ip": "185.220.101.45",
+    "destination_ip": "",
+    "host": "FINANCE-PC-07",
+    "user": "",
+    "event_type": "Malicious IP",
+    "severity": "critical",
+    "description": "Threat intelligence feed identifies the source IP as malicious.",
+    "indicator": "185.220.101.45",
+    "ti_confidence": 0.98
+  },
+  {
+    "alert_id": "ALT-004",
+    "source": "SIEM",
+    "timestamp": "2026-09-15T09:12:44",
+    "source_ip": "10.10.30.25",
+    "destination_ip": "10.10.20.40",
+    "host": "HR-PC-02",
+    "user": "employee01",
+    "event_type": "Failed Login",
+    "severity": "low",
+    "description": "Single failed login attempt.",
+    "indicator": "10.10.30.25",
+    "ti_confidence": 0.10
+  },
+  {
+    "alert_id": "ALT-005",
+    "source": "Endpoint Sensor",
+    "timestamp": "2026-09-15T09:15:21",
+    "source_ip": "10.10.30.25",
+    "destination_ip": "10.10.20.40",
+    "host": "HR-PC-02",
+    "user": "employee01",
+    "event_type": "Normal Application Launch",
+    "severity": "low",
+    "description": "Known enterprise application launched normally.",
+    "indicator": "10.10.30.25",
+    "ti_confidence": 0.05
+  }
+]
