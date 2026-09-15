@@ -12,7 +12,7 @@
 | ------------- | ---------------------------------------------------------------------------- |
 | **Team Name** | Neural Theft                                                                 |
 | **Track**     | AI                                                                           |
-| **Team Lead** | Jash Mandani — [20pgce011@charusat.edu.in](mailto:20pgce011@charusat.edu.in) |
+| **Team Lead** | Jash Mandani — [20pgce011@charusat.edu.in](mailto:26pgce011@charusat.edu.in) |
 | **Members**   | Heli Gandhi, Tanisha Kapila, Vansh Desai                                     |
 
 ### Team Members
